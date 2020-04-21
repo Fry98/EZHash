@@ -1,14 +1,12 @@
 {
   "name": "ezhash",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Utility for simple and secure password encryption and verification",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "crypto",
-    "cryptonite",
     "easyhash",
     "easy",
     "ezhash",
